@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MariamRaji21
+- 👋 Hi, I’m Mariam Raji
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning Excel, SQL and Power BI
 - 💞️ I’m looking to collaborate on open-source projects in the tech and data analysis domains.
-- 📫 How to reach me https://rajimariam21.medium.com/
+- 📫 How to reach me https://rajimariam21.medium.com/  https://www.linkedin.com/in/mariamraji21/
 - 😄 Pronouns: SHE
 - ## PROJECTS
 - **[Power BI EV Dashboard](https://github.com/MariamRaji21/PowerBI-EV-Dashboard)**: A dashboard analyzing electric vehicle data from the State of Washington.
